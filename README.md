@@ -1,9 +1,9 @@
 # Maze-Game
-Implement the following search algorithms for solving different mazes:
-  Depth-first search;
-  Breadth-first search;
-  Greedy best-first search;
-  A* search.
+Implement the following search algorithms for solving different mazes:<br />
+  Depth-first search;<br />
+  Breadth-first search;<br />
+  Greedy best-first search;<br />
+  A* search.<br />
   
-To Run the program:
-./build.sh
+To Run the program:<br />
+./build.sh<br />
